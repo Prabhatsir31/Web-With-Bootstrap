@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.haeder
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+}
+.logo
+{
+    height: 48px;
+    padding: 2px 10px;
+}
+.icon-bar
+{
+    background: darkorange;
+}
+li a
+{
+    color: black;
+}
+.big-text
+{
+    font-size: 52px;
+    margin: 20px 0;
+    color: darkorange;
+}
+a.btn
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-first
+{
+    background-color: darkorange;
+    color: #fff;
+}
+a.btn-second
+{
+    background-color: transparent;
+    border: 1px solid darkorange;
+    color: #333;
+}
+a.btn:hover
+{
+    background: darkorange;
+    border: none;
+    color: #fff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+}
+.banner-info, .banner-image
+{
+    margin: 60px 0;
+}
